@@ -11,7 +11,7 @@ For Windows:
 - Copy the file `slot0.slot` to your **PC** from **Android** `/storage/emulated/0/Android/data/com.netflix.NGP.IntoTheBreach/files`;
 - Switch **Steam** to offline mode;
 - Make a backup save dir `%USERPROFILE%\Documents\My Games\Into The Breach`;
-- Run script:
+- Run in cmd:
     ```cmd
     python itb-save-extract.py slot0.slot "%USERPROFILE%\Documents\My Games\Into The Breach"
     ```
